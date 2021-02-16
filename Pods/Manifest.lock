@@ -1,0 +1,32 @@
+PODS:
+  - Bond (7.8.1):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.5)
+  - lottie-ios (3.1.9)
+  - ReactiveKit (3.17.4)
+  - SwiftGifOrigin (1.7.0)
+
+DEPENDENCIES:
+  - Bond
+  - lottie-ios
+  - SwiftGifOrigin (~> 1.7.0)
+
+SPEC REPOS:
+  trunk:
+    - Bond
+    - Differ
+    - lottie-ios
+    - ReactiveKit
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  Bond: 87075c7f20f37ea3e73dc7057fce839787bf46eb
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  ReactiveKit: f9f9e079efa39312c597bf1508ef4810d111ce76
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+
+PODFILE CHECKSUM: 05bc31f9aa5bf0f4af1febc5e2f42ed421247881
+
+COCOAPODS: 1.10.0
